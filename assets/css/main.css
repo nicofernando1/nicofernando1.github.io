@@ -1,0 +1,17 @@
+.card {
+    background-color: blue;
+    margin-left: 200px;
+    width: 250px;
+    height: 100px;
+    margin-top: 50px;
+    border-radius: 5px;
+    padding:20px;
+}
+
+
+h2 {
+    align: center;
+    font-display:auto;
+    display: flex;
+    color: blue;
+}

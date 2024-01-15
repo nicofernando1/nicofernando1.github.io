@@ -1,0 +1,18 @@
+body {
+    background: url( url('http://localhost/Pertamina/assets/image/gam.jpg'););
+    background:url('../../image/gam.jpg') no-repeat 0px 0px ;
+    /*background:linear-gradient(
+        to bottom,
+        rgba(10,10,10, 60),
+        rgba(0,0,0, 100)
+    ),url(assets/gambar.jpeg);*/
+    min-height: 100vh;
+    background-size: cover; 
+    box-shadow: ;
+}
+
+.register-box {
+    background-color: rgba(245, 245, 245, 0,4);
+    opacity: 1;
+    background
+}
